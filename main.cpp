@@ -11,4 +11,11 @@ void main(){
 //Alexander Nettenbreijers. Verifica.
 //4-12-2018
 //Test
+<<<<<<< HEAD
 //No merge error causing comment 123
+=======
+
+//1
+//2
+//3
+>>>>>>> FIX_BUG
